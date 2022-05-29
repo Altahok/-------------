@@ -1,0 +1,122 @@
+body {
+    margin: 0;
+}
+
+img {
+    display:block;
+    height: 100%;
+    object-fit:cover;
+}
+
+.gachimuchi-1 {
+    height: 780px;
+    background-image: url(img/1.jpg);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.dimasta-1 {
+    background-image: url(img/d.jpg);
+    background-size: cover;
+    height: 500px;
+    width: 20%;
+    border-radius: 15px;
+    box-shadow: 0 0 30px 30px white;
+}
+
+.gachimuchi-2 {
+    height: 780px;
+    background-image: url(img/3.jpg);
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.dimasta-2 {
+    background-image: url(img/d3.JPG);
+    background-size: cover;
+    height: 500px;
+    width: 20%;
+    border-radius: 15px;
+    box-shadow: 0 0 30px 30px white;
+}
+
+.gachimuchi-3 {
+    height: 780px;
+    background-image: url(img/4.jpg);
+    background-size: cover;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.dimasta-3 {
+    background-image: url(img/d4.JPG);
+    background-size: cover;
+    height: 500px;
+    width: 20%;
+    border-radius: 15px;
+    box-shadow: 0 0 30px 30px white;
+}
+.dimasta-8 {
+    background-image: url(img/d5.JPG);
+    background-size: cover;
+    height: 500px;
+    width: 20%;
+    border-radius: 15px;
+    margin-left: 150px;
+    box-shadow: 0 0 30px 30px white;
+}
+
+.gachimuchi-4 {
+    height: 780px;
+    background-image: url(img/5.jpg);
+    /* background-size: cover; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.dimasta-4 {
+    background-image: url(img/d6.JPG);
+    background-size: cover;
+    height: 500px;
+    width: 20%;
+    border-radius: 15px;
+    box-shadow: 0 0 30px 30px white;
+}
+
+.gachimuchi-5 {
+    height: 780px;
+    background-image: url(img/6.jpg);
+    /* background-size: cover; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.dimasta-5 {
+    background-image: url(img/d7.JPG);
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+    width: 20%;
+    border-radius: 15px;
+    box-shadow: 0 0 30px 30px white;
+}
+
+.gachimuchi-6 {
+    height: 100vh;
+    background-image: url(img/petr-1-novy-j-god.jpg);
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.dimasta-6 {
+    background-size: cover;
+    background-position: center;
+    /* height: 500px; */
+    background-color: white;
+    font-size: xx-large;
+    width: 20%;
+    border-radius: 15px;
+    box-shadow: 0 0 30px 30px white;
+}
